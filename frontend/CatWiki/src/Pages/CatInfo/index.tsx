@@ -4,8 +4,8 @@ import { useParams } from 'react-router-dom';
 import * as S from './styles';
 import logoPage from '../../images/CatwikiLogo.svg';
 import { Link } from 'react-router-dom';
-import CatImages from '../CatImages';
-import Footer from '../Footer';
+import CatImages from '../../components/CatImages';
+import Footer from '../../components/Footer';
 
 interface BreedDetails {
   name: string;

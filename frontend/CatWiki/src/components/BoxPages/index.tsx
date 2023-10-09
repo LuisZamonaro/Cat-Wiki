@@ -1,7 +1,7 @@
 import { GlobalStyle } from "../../styles/GlobalStyle";
-import CatInfo from "../CatInfo";
-import Dashboard from "../Dashboard";
-import TopCats from "../TopCats";
+import CatInfo from "../../Pages/CatInfo";
+import Dashboard from "../../Pages/Dashboard";
+import TopCats from "../../Pages/TopCats";
 import * as S from './styles'
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 

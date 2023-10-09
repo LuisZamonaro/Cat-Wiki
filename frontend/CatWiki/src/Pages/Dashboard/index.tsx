@@ -1,7 +1,7 @@
-import BottomPageContent from '../BottomPageContent'
-import Footer from '../Footer'
-import MidPageContent from '../MidPageContent'
-import TopPageContent from '../TopPageContent'
+import BottomPageContent from '../../components/BottomPageContent'
+import Footer from '../../components/Footer'
+import MidPageContent from '../../components/MidPageContent'
+import TopPageContent from '../../components/TopPageContent'
 import * as S from './styles'
 
 

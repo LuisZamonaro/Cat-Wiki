@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import * as S from './styles';
 import logoPage from '../../images/CatwikiLogo.svg';
 import axios from 'axios';
-import Footer from '../Footer';
+import Footer from '../../components/Footer';
 
 export default function TopCats() {
     const imageUrlBengal = 'https://cdn2.thecatapi.com/images/ZocD-pQxd.jpg';
